@@ -1,0 +1,1 @@
+{"edges": [{"src_node": 0, "dst_node": 1, "features": {"flow_count": 1.0, "dur": 0.0, "sbytes": 46.0, "dbytes": 0.0, "Spkts": 1.0, "Dpkts": 0.0, "Sload": 0.0, "Dload": 0.0, "sloss": 0.0, "dloss": 0.0, "Sjit": 0.0, "Djit": 0.0, "tcprtt": 0.0, "synack": 0.0, "ackdat": 0.0}}], "threshold": 0.5}
